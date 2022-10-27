@@ -2,3 +2,5 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for wolfman
 This is the test for remote change
 This is the second test
+This is test when remote is different from local
+this is anther confict from local
